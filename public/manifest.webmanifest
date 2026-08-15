@@ -1,0 +1,13 @@
+{
+  "name": "Bakery Counter",
+  "short_name": "Bakery",
+  "description": "Live bread detection point-of-sale.",
+  "start_url": "/",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#ffffff",
+  "theme_color": "#1E63FF",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
